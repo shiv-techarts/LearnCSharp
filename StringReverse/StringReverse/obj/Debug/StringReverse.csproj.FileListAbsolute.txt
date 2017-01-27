@@ -1,0 +1,5 @@
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\StringReverse\StringReverse\bin\Debug\StringReverse.exe.config
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\StringReverse\StringReverse\bin\Debug\StringReverse.exe
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\StringReverse\StringReverse\bin\Debug\StringReverse.pdb
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\StringReverse\StringReverse\obj\Debug\StringReverse.exe
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\StringReverse\StringReverse\obj\Debug\StringReverse.pdb

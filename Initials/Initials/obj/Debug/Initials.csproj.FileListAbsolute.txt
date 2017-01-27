@@ -1,0 +1,6 @@
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\Initials\Initials\bin\Debug\Initials.exe.config
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\Initials\Initials\bin\Debug\Initials.exe
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\Initials\Initials\bin\Debug\Initials.pdb
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\Initials\Initials\obj\Debug\Initials.csprojResolveAssemblyReference.cache
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\Initials\Initials\obj\Debug\Initials.exe
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\Initials\Initials\obj\Debug\Initials.pdb
