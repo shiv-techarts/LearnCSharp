@@ -1,0 +1,1 @@
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\SampleDatabaseWalkthrough\SampleDatabaseWalkthrough\bin\Debug\SampleDatabaseWalkthrough.exe.config

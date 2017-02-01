@@ -1,0 +1,11 @@
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\Factorial\Functions\bin\Debug\Functions.dll.config
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\Factorial\Functions\bin\Debug\Functions.dll
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\Factorial\Functions\bin\Debug\Functions.pdb
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\Factorial\Functions\obj\Debug\Functions.dll
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\Factorial\Functions\obj\Debug\Functions.pdb
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\Functions\bin\Debug\Functions.dll.config
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\Functions\bin\Debug\Functions.dll
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\Functions\bin\Debug\Functions.pdb
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\Functions\obj\Debug\Functions.csprojResolveAssemblyReference.cache
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\Functions\obj\Debug\Functions.dll
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\Functions\obj\Debug\Functions.pdb

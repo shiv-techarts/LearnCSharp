@@ -1,0 +1,8 @@
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\Palindrome\Palindrome\bin\Debug\Palindrome.exe.config
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\Palindrome\Palindrome\bin\Debug\Palindrome.exe
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\Palindrome\Palindrome\bin\Debug\Palindrome.pdb
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\Palindrome\Palindrome\bin\Debug\Functions.dll
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\Palindrome\Palindrome\bin\Debug\Functions.pdb
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\Palindrome\Palindrome\obj\Debug\Palindrome.csprojResolveAssemblyReference.cache
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\Palindrome\Palindrome\obj\Debug\Palindrome.exe
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\Palindrome\Palindrome\obj\Debug\Palindrome.pdb

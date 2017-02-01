@@ -1,0 +1,15 @@
+﻿Doll
+6.0
+5
+Dog
+75000
+2
+Biscuit
+5
+300
+Maggie
+12
+50
+Ashirwad_anta
+40
+40

@@ -1,0 +1,10 @@
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\Game1D\MainGame\bin\Debug\MainGame.exe.config
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\Game1D\MainGame\bin\Debug\MainGame.exe
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\Game1D\MainGame\bin\Debug\MainGame.pdb
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\Game1D\MainGame\bin\Debug\Functions.dll
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\Game1D\MainGame\bin\Debug\Game1D.dll
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\Game1D\MainGame\bin\Debug\Functions.pdb
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\Game1D\MainGame\bin\Debug\Game1D.pdb
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\Game1D\MainGame\obj\Debug\MainGame.csprojResolveAssemblyReference.cache
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\Game1D\MainGame\obj\Debug\MainGame.exe
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\Game1D\MainGame\obj\Debug\MainGame.pdb

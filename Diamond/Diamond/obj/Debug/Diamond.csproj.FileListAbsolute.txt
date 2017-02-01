@@ -1,0 +1,8 @@
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\Diamond\Diamond\bin\Debug\Diamond.exe.config
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\Diamond\Diamond\bin\Debug\Diamond.exe
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\Diamond\Diamond\bin\Debug\Diamond.pdb
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\Diamond\Diamond\bin\Debug\Functions.dll
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\Diamond\Diamond\bin\Debug\Functions.pdb
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\Diamond\Diamond\obj\Debug\Diamond.csprojResolveAssemblyReference.cache
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\Diamond\Diamond\obj\Debug\Diamond.exe
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\Diamond\Diamond\obj\Debug\Diamond.pdb

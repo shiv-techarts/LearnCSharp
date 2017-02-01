@@ -1,0 +1,8 @@
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\PrintSteps\PrintSteps\bin\Debug\PrintSteps.exe.config
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\PrintSteps\PrintSteps\bin\Debug\PrintSteps.exe
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\PrintSteps\PrintSteps\bin\Debug\PrintSteps.pdb
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\PrintSteps\PrintSteps\bin\Debug\Functions.dll
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\PrintSteps\PrintSteps\bin\Debug\Functions.pdb
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\PrintSteps\PrintSteps\obj\Debug\PrintSteps.csprojResolveAssemblyReference.cache
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\PrintSteps\PrintSteps\obj\Debug\PrintSteps.exe
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\PrintSteps\PrintSteps\obj\Debug\PrintSteps.pdb

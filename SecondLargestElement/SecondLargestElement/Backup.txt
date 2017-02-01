@@ -1,0 +1,33 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Functions;
+
+namespace SecondLargestElement {
+	class Program {
+		static void Main(string[] args) {
+			int[] arr = new int[10];  // 1, 2, 3, 5, 4 ...
+
+			Console.WriteLine("Value kaun dega be: ");
+
+			for(int i = 0; i < arr.Length; i++) {
+				arr[i] = ConsoleFunc.GetInt();		
+			}
+
+			int max = arr[0];  // 85
+			int secondMax = max;  // 85
+
+			for (int i = 1; i < arr.Length; i++) {
+				if(max < arr[i]) {		// 85 < 45 false
+					max = arr[i];
+				} else if(arr[i] > secondMax) {	   // 45 > 85 false
+					secondMax = arr[i];
+				}
+			}
+
+			Console.WriteLine("Max value is: " + max + " " + secondMax);
+		}
+	}
+}

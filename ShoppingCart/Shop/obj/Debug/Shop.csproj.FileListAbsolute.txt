@@ -1,0 +1,10 @@
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\ShoppingCart\Shop\bin\Debug\Shop.exe.config
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\ShoppingCart\Shop\bin\Debug\Shop.exe
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\ShoppingCart\Shop\bin\Debug\Shop.pdb
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\ShoppingCart\Shop\bin\Debug\Functions.dll
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\ShoppingCart\Shop\bin\Debug\ShoppingCart.dll
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\ShoppingCart\Shop\bin\Debug\Functions.pdb
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\ShoppingCart\Shop\bin\Debug\ShoppingCart.pdb
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\ShoppingCart\Shop\obj\Debug\Shop.csprojResolveAssemblyReference.cache
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\ShoppingCart\Shop\obj\Debug\Shop.exe
+C:\Users\shivs\Documents\Visual Studio 2015\Projects\LearnCSharp\ShoppingCart\Shop\obj\Debug\Shop.pdb
